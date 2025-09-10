@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nikil Pranav 👋
 
-<!--
-**NikilPranavV/NikilPranavV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science undergraduate 
+Passionate about backend development, data engineering, and database management. Skilled in building **secure, scalable server-side applications** using Node.js, MongoDB, and REST APIs, and experienced in **data pipelines, automation, and analytics** with Selenium, SQL, and Power BI. I enjoy solving real-world problems using **clean code** and **data-driven decision-making**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Languages:** C, Java, JavaScript, Python  
+**Backend & Web:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, SQL, Supabase  
+**Data Engineering & ETL:** Pandas, NumPy, Selenium, BigQuery, GCP, Docker  
+**Data Analysis & Visualization:** Power BI, Excel, Matplotlib, Seaborn  
+**Developer Tools:** Git, GitHub, Postman, VS Code, Jupyter Notebook  
+
+---
+
+## 💼 Work Experience
+
+**Data Applications Engineer Intern – EQ-REV | July 2025 - Present**  
+- Automated competitive analysis in quick commerce and e-commerce using Node.js to scrape product, pricing, and brand data from Blinkit, Zepto, Instamart, Myntra, and Flipkart.  
+- Built ETL pipelines using JavaScript and SQL to convert data into actionable dashboards.  
+- Delivered brand-wise analytics reports supporting product positioning and marketing.  
+- Boosted conversion rates and regional sales by 20% through data-driven pricing insights.
