@@ -1,4 +1,4 @@
-# Hi, I'm Nikil Pranav 👋
+# Hi, I'm Nikil Pranav
 
 **Computer Science undergraduate 
 Passionate about backend development, data engineering, and database management. Skilled in building **secure, scalable server-side applications** using Node.js, MongoDB, and REST APIs, and experienced in **data pipelines, automation, and analytics** with Selenium, SQL, and Power BI. I enjoy solving real-world problems using **clean code** and **data-driven decision-making**.
