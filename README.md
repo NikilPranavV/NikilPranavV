@@ -7,11 +7,11 @@ Passionate about backend development, data engineering, and database management.
 
 ## 🛠️ Technical Skills
 
-**Languages: C, Java, JavaScript, SQL
-**Data Engineering & ETL: Playwright, BigQuery, GCP, Docker, Kubernetes, VMs
-**Backend: Node.js, Express.js, REST APIs, Redis, BullMQ
-**Data Analysis: Pandas, NumPy, Power BI
-**Developer Tools: Git, GitHub, Postman, VS Code, Jupyter Notebook
+Languages: C, Java, JavaScript, SQL
+Data Engineering & ETL: Playwright, BigQuery, GCP, Docker, Kubernetes, VMs
+Backend: Node.js, Express.js, REST APIs, Redis, BullMQ
+Data Analysis: Pandas, NumPy, Power BI
+Developer Tools: Git, GitHub, Postman, VS Code, Jupyter Notebook
 
 ---
 
